@@ -18,7 +18,6 @@ submission/
 cfg/
 darknet
 .fuse*
-scripts/coco/*
 
 # OS Generated #
 .DS_Store*
@@ -26,6 +25,7 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+
 *.weights
 *.so
 darknet-cpu
