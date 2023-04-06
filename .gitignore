@@ -18,7 +18,6 @@ submission/
 cfg/
 darknet
 .fuse*
-scripts/coco/*
 
 # OS Generated #
 .DS_Store*
@@ -27,4 +26,12 @@ Icon?
 Thumbs.db
 *.swp
 
-scripts/coco
+*.weights
+*.so
+darknet-cpu
+darknet53.conv.74
+libdarknet.a
+predictions.jpg.bk
+darknet-mp
+darknet-gpu
+backup/yolov3-tiny.backup
